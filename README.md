@@ -1,31 +1,29 @@
 # Quarto projeto individual - Jogos indies e seu crescimento
 O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criarmos um banco de dados onde estejam organizados de forma padronizada e respondam nossas indagações. Também é necessário a apresentação através de dashboard sobre a exploração desses dados e a informação que foi obtida. Utilizamos o conjunto de dados do Steam, esta sendo uma plataforma de compra de jogos digitais. Conhecendo de longa data a plataforma por experiências próprias, nosso grupo em conjunto decidiu fazer uma apresentação mostrando a potência dos jogos indies. O Dashboard e nossa apresentação responderá as seguintes perguntas:
 
-- <h4> Quanto foi o crescimento dos lançamentos de jogos indies nos últimos 10 anos? </h4>
-- <h4> Quantas usuários jogaram? </h4>
-- <h4> Qual é a média de jogadres em comparação com os jogos que não são indies? </h4>
-- <h4> Qual é a quantidade de avaliações positivas e a média? </h4>
-- <h4> Qual é o tempo médio dos jogadores nesses jogos em comparação com os outros?</<h4>
-- <h4> Qual é o valor dos jogos indies em comparação com os outros? </h4>
+- <h4> Quanto foi o crescimento dos lançamentos de jogos indies nos últimos 7 anos? </h4>
+- <h4> Qual é a média de avaliações positivas entre os jogos indies e não indies? </h4>
+- <h4> Qual é o tempo médio dos jogadores nesses jogos em comparação com os outros? </h4>
+- <h4> Quantidade de jogos indies e não indies que são muitplayer. </h4>
+- <h4> Qual é o valor dos jogos indies em comparação com os outros?</<h4>
+- <h4> Quais são os 5 estilos que mais tem jogos indies e os dos não indie? </h4>
+- <h4> Quais os 5 gêneros de maior quantidade de jogos entre os indies e não indies? </h4>
 
 <hr>
 
-## Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas
-<h3> Há três arquivos: </h3>
+## Os arquivos e mostrando o modelo  
+<h3> Há duas pastas e e dois arquivos na raiz: </h3>
 <ol> 
-<li> DiagramaBanco.png - este se trata do diagrama do banco;</li>
-<li> ModelagemBanco.png - este aqui sendo a modelagem do banco;</li>
-<li> ScriptBanco.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas.</li>
+<li> SQL/ - pasta onde há as tabelas, contendo 4 arquivos;</li>
+<li> Consulta/ - pasta onde há os arquivos que mostram as consultas, um .txt com os códigos e um pdf com todos os prints das consultas;</li>
+<li> Modelagem.png - este justamente é a modelagem;</li>
+<li> Slide.ppt- o slide de apresentação com o dashbord. </li>
 </ol>
-
-<hr>
-
-## O digrama
-Texto
-<img src="" width="800px"/>
 
 <hr>
 
 ## A modelagem 
 Texto
-<img src="" width="500px"/>
+<img src="Modelagem.png" width="500px"/>
+
+<br>
