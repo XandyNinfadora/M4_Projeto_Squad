@@ -14,10 +14,10 @@ O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criar
 ## Os arquivos e mostrando o modelo  
 <h3> Há duas pastas e e dois arquivos na raiz: </h3>
 <ol> 
-<li> SQL/ - pasta onde há as tabelas, contendo 4 arquivos;</li>
+<li> SQL/ - pasta onde há as tabelas, contendo 4 arquivos sql;</li>
 <li> Consulta/ - pasta onde há os arquivos que mostram as consultas, um .txt com os códigos e um pdf com todos os prints das consultas;</li>
-<li> Modelagem.png - este justamente é a modelagem;</li>
-<li> Slide.ppt- o slide de apresentação com o dashbord. </li>
+<li> Modelagem.png - este justamente é a modelagem do banco de dados;</li>
+<li> Slide.pptx- o slide de apresentação com o dashbord. </li>
 </ol>
 
 <hr>
