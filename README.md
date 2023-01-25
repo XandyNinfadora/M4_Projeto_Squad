@@ -24,16 +24,15 @@ O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criar
 
 ## A modelagem 
 O objetivo era fazer uma comparação entre os jogos indies e não-indies, então foi feito uma modelagem onde suas diferenças ficassem mais explícitas e de fácil compreensão.
-  
 <img src="Modelagem.png" width="500px"/>
-  
+
 <hr>
 
 ## Integrantes
 
 [Andrielle Pessanha] (https://github.com/XandyNinfadora)
 
-[Gabriel Conceição] (https://github.com/BieldoJT)
+[Gabriel da Conceição] (https://github.com/BieldoJT)
 
 [Igor Rodrigues] (https://github.com/IgorCostaRodrigues)
 
@@ -41,4 +40,5 @@ O objetivo era fazer uma comparação entre os jogos indies e não-indies, entã
 
 [Leonnardo Limma] (https://github.com/LeonLima1)
 
-<br>
+​
+
