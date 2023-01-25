@@ -7,7 +7,7 @@ O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criar
 - <h4> Quantidade de jogos indies e não indies que são muitplayer. </h4>
 - <h4> Qual é o valor dos jogos indies em comparação com os outros?</<h4>
 - <h4> Quais são os 5 estilos que mais tem jogos indies e os dos não indie? </h4>
-- <h4> Quais os 5 gêneros de maior quantidade de jogos entre os indies e não indies? </h4>
+- <h4> Quais os 7 gêneros de maior quantidade de jogos entre os indies e não indies? </h4>
 
 <hr>
 
