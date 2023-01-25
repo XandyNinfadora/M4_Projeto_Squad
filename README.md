@@ -37,7 +37,7 @@ O objetivo era fazer uma comparação entre os jogos indies e não-indies, entã
 
 [Igor Rodrigues] (https://github.com/IgorCostaRodrigues)
 
-[Caique dos Santos] (https://github.com/caique2s)
+[Caique dos Santos] ()
 
 [Leonnardo Limma] (https://github.com/LeonLima1)
 
