@@ -23,7 +23,21 @@ O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criar
 <hr>
 
 ## A modelagem 
-Texto
+O objetivo era fazer uma comparação entre os jogos indies e não-indies, então foi feito uma modelagem onde suas diferenças ficassem mais explícitas e de fácil compreensão.
 <img src="Modelagem.png" width="500px"/>
+30
+<hr>
+
+## Integrantes
+
+[Andrielle Pessanha] (https://github.com/XandyNinfadora)
+
+[Gabriel Conceição] (https://github.com/BieldoJT)
+
+[Igor Rodrigues] (https://github.com/IgorCostaRodrigues)
+
+[Caique dos Santos] (https://github.com/caique2s)
+
+[Leonnardo Limma] (https://github.com/LeonLima1)
 
 <br>
