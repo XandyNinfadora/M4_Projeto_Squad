@@ -1,4 +1,4 @@
-////// Pergunta 1 - Quanto foi o crescimento dos lançamentos de jogos indie nos últimos 5 anos?
+////// Pergunta 1 - Quanto foi o crescimento dos lançamentos de jogos indie nos últimos anos?
 
 /* Jogos indie */
 
