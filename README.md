@@ -10,7 +10,9 @@ O objetivo desse projeto foi pegar um conjunto de dados para analisarmos e criar
 - <h4> Quais os 7 gêneros de maior quantidade de jogos entre os indies e não indies? </h4>
 
 Na raiz, há um arquivo em pdf que pode ser aberto aqui mesmo pelo Github e poderá ver o resultado da nossa pesquisa.
+
 Este trabalho deu origem a uma série de artigos que postarei no meu linkedIn.
+  
 Link para o primeiro artigo: https://www.linkedin.com/pulse/ascens%C3%A3o-dos-jogos-indies-andrielle-pessanha
 <hr>
 
